@@ -1,6 +1,4 @@
 # Cash-register
 Cash register in the restaurant
 
-
-
-![alt text](https://github.com/audoan99/Cash-register/blob/main/sample/sample-video.gif)
+Link: https://www.prodevelopertutorial.com/5g-nr-rrc-rrc-connection-establishment-procedure/
